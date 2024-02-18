@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('https://image.freepik.com/vector-gratis/fondo-globos-confeti-brillante_52683-30942.jpg'); /* Fondo de globos y confeti */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #ff0000;
+}
+
+p {
+    color: #000000;
+    font-size: 16px;
+}
